@@ -1,2 +1,2 @@
 # LendingClub-Regression
-Lending Club Data (Linear and Logistic Regression)
+Lending Club Data (Simple Linear and Logistic Regression)

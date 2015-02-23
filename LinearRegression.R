@@ -2,7 +2,7 @@
 sessionInfo()
 
 # Set working director
-setwd("/Users/Ankoor/Desktop/ML with R")
+setwd("/Users/Ankoor/Documents/Git/LendingClub-Regression")
 
 # Get file form the internet
 fileUrl <- "https://spark-public.s3.amazonaws.com/dataanalysis/loansData.csv"
